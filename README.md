@@ -1,2 +1,4 @@
 # HeartyPlant
-Introduction
+This is Hearty Plant Project Repository
+
+Build automation vertical farm 
